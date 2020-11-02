@@ -1,0 +1,14 @@
+{
+  "name": "fakejson",
+  "version": "1.0.0",
+  "description": "fake json rest api",
+  "main": "index.js",
+  "scripts": {
+    "json:server": "json-server --watch db.json"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.16.2"
+  }
+}
